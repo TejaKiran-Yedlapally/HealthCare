@@ -1,0 +1,147 @@
+.side-bar{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(246, 250, 255);
+}
+
+#logo{
+    font-size:2rem;
+    width: 80%;
+    height: 3rem;
+}
+
+.nav-top{
+    width: 90%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-bottom{
+    width: 90%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-links1 >ul li{
+    list-style: none;
+    height: 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap:1rem;
+}
+
+#nav-bottom-top >ul li{
+    list-style: none;
+    list-style: none;
+    height: 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap:1rem;
+}
+.ul1{
+
+    width: 100%;
+    height: 70em ;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    font-size: 1.1rem;
+}
+.ul2{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.1rem;
+    padding-top: 1rem;
+}
+.nav-links1{
+    width: 80%;
+    height: 18em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.nav-links2{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+   
+}
+
+.nav-links1 >p,#nav-bottom-top >p{
+    font-size: 1rem;
+    color: rgb(226, 230, 236);
+}
+
+
+span{
+    height: 3rem;
+    width: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    height: 1rem;
+    width: 1rem;
+}
+
+#nav-bottom-foot
+{
+    display: flex;
+    align-items: end;
+    gap:1rem;
+}
+
+#nav-bottom-top >p{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+    height: 3rem;
+    font-size:1.1rem ;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(203, 207, 212);
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+#dashboard{
+    color: rgb(70, 92, 175);
+}
+
+#nav-bottom-top{
+    display: flex;
+    height: 70%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#nav-bottom-foot >p{
+    height: 50px;
+}
+

@@ -1,0 +1,58 @@
+.body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+
+.indicator {
+  position: absolute;
+  padding: 4px 8px;
+  border-radius: 5px;
+  font-size: 0.8em;
+  color: #060000;
+}
+
+.healthyLegs{
+    top:61%;
+    left: 0%;
+    background-color: rgb(3, 224, 240);
+    color: rgb(18, 141, 201);
+    font-weight: 500;
+    font-size: 10px;
+    height: 20px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.healthyHeart{
+    top: 33%;
+    left: 60%;
+    background-color:rgb(56, 51, 176);
+    color: rgb(237, 231, 231);
+    font-weight: 500;
+    font-size: 10px;
+    height: 20px;
+    width: 100px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body >h3{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 20px;
+    height: 100px;
+    width: 200px;
+    color: rgb(13, 13, 75);
+}
+
+.body >img{
+    width: 100%;
+    height: 100%;
+}
