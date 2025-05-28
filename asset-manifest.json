@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TejaKiran-Yedlapally/HealthCare.git/static/css/main.bf718f9f.css",
-    "main.js": "/TejaKiran-Yedlapally/HealthCare.git/static/js/main.efa535ea.js",
-    "static/js/453.0062345b.chunk.js": "/TejaKiran-Yedlapally/HealthCare.git/static/js/453.0062345b.chunk.js",
-    "static/media/body.png": "/TejaKiran-Yedlapally/HealthCare.git/static/media/body.f24e51344e3c1a012d88.png",
-    "index.html": "/TejaKiran-Yedlapally/HealthCare.git/index.html",
-    "main.bf718f9f.css.map": "/TejaKiran-Yedlapally/HealthCare.git/static/css/main.bf718f9f.css.map",
-    "main.efa535ea.js.map": "/TejaKiran-Yedlapally/HealthCare.git/static/js/main.efa535ea.js.map",
-    "453.0062345b.chunk.js.map": "/TejaKiran-Yedlapally/HealthCare.git/static/js/453.0062345b.chunk.js.map"
+    "main.css": "/HealthCare/static/css/main.bf718f9f.css",
+    "main.js": "/HealthCare/static/js/main.c91c6919.js",
+    "static/js/453.0062345b.chunk.js": "/HealthCare/static/js/453.0062345b.chunk.js",
+    "static/media/body.png": "/HealthCare/static/media/body.f24e51344e3c1a012d88.png",
+    "index.html": "/HealthCare/index.html",
+    "main.bf718f9f.css.map": "/HealthCare/static/css/main.bf718f9f.css.map",
+    "main.c91c6919.js.map": "/HealthCare/static/js/main.c91c6919.js.map",
+    "453.0062345b.chunk.js.map": "/HealthCare/static/js/453.0062345b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf718f9f.css",
-    "static/js/main.efa535ea.js"
+    "static/js/main.c91c6919.js"
   ]
 }
