@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TejaKiran-Yedlapally/HealthCare.git/static/css/main.bf718f9f.css",
+    "main.js": "/TejaKiran-Yedlapally/HealthCare.git/static/js/main.efa535ea.js",
+    "static/js/453.0062345b.chunk.js": "/TejaKiran-Yedlapally/HealthCare.git/static/js/453.0062345b.chunk.js",
+    "static/media/body.png": "/TejaKiran-Yedlapally/HealthCare.git/static/media/body.f24e51344e3c1a012d88.png",
+    "index.html": "/TejaKiran-Yedlapally/HealthCare.git/index.html",
+    "main.bf718f9f.css.map": "/TejaKiran-Yedlapally/HealthCare.git/static/css/main.bf718f9f.css.map",
+    "main.efa535ea.js.map": "/TejaKiran-Yedlapally/HealthCare.git/static/js/main.efa535ea.js.map",
+    "453.0062345b.chunk.js.map": "/TejaKiran-Yedlapally/HealthCare.git/static/js/453.0062345b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf718f9f.css",
+    "static/js/main.efa535ea.js"
+  ]
+}
